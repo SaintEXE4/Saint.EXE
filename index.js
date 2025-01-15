@@ -5,7 +5,7 @@ const cors = require('cors');
 const axios = require('axios');
 const { Pool } = require('pg');
 
-const TOKEN = 'MTMyODg4OTE2MzcwOTE1NzM5Nw.G9gEf7.QOOEo7aEWz0B2PbMJktdUWqGKimD0bhQB9kMkA'; // Replace with your bot token
+const TOKEN = 'MTMyODg4OTE2MzcwOTE1NzM5Nw.Gs29ws.gOjgBA2ZqSgbziYsZPR3fECt8YCqm3QCAMBS7E'; // Replace with your bot token
 const WEBHOOK_URL = 'https://discord.com/api/webhooks/1328888857332027495/crViREx5EOBgiZhpT9yeYhomfqXiPDYuFNreYCjl8-O3o7vBWWCqxqv1i-GpYiC3nwus'; // Replace with your webhook URL
 const DATABASE_URL = 'postgresql://neondb_owner:ycumC8bzdFV3@ep-damp-fog-a5vipdt8.us-east-2.aws.neon.tech/neondb?sslmode=require'; // Replace with your PostgreSQL URL
 const PORT = 3000;
