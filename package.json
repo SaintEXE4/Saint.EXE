@@ -1,5 +1,5 @@
 {
-  "name": "SaintEXE-discord-bot",
+  "name": "ic3-discord-bot",
   "version": "1.0.0",
   "description": "A Discord bot integrated with PostgreSQL for user registration and key redemption.",
   "main": "index.js",
